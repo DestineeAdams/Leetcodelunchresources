@@ -1,9 +1,9 @@
 # Leetcode lunch resources
 
 Anyone can edit. 
+If you want to be a contributors let me know.
 
 🚨No profanity or lewd material🚨
-
 🚨follow the format🚨
 
   
