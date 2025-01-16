@@ -10,7 +10,7 @@ Anyone can edit. 
 
 ---
 
-## Big O Notation Series by [Kantan Coding](https://www.youtube.com/@kantancoding)
+#### Big O Notation Series by [Kantan Coding](https://www.youtube.com/@kantancoding)
 
 [Big O Notation Series #8: Space Complexity and Big O Gotchas](https://www.youtube.com/watch?v=rHM3zWgnPVA)  
 
@@ -18,7 +18,7 @@ Anyone can edit. 
 
 [Big O Notation Series #6: Big O of N Factorial](https://www.youtube.com/watch?v=vbh8t-ok_4E)  
 
-## Free Leet code alternatives 
+#### Free Leet code alternatives 
 
 [Roadmap neetcode 150](https://neetcode.io/roadmap)
 
@@ -28,6 +28,6 @@ Anyone can edit. 
 
 [edabit coding challenges](https://edabit.com/challenges)
 
-## other
+#### other
 
 [Bianca Gandolfo](https://frontendmasters.com/teachers/bianca-gandolfo/)
