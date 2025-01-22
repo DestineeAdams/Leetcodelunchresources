@@ -28,6 +28,8 @@ If you want to be a contributors let me know.
 
 [edabit coding challenges](https://edabit.com/challenges)
 
+[Grokking Algorithms 2nd Edition, 2024 - Free PDF](https://annas-archive.org/md5/6014af49a9c4c513b76f29b74a869e3f)
+
 #### other
 
 [Bianca Gandolfo](https://frontendmasters.com/teachers/bianca-gandolfo/)
