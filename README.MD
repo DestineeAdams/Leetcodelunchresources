@@ -47,6 +47,70 @@ Anyone can edit. 
 
 * [Structy](https://www.structy.net/)
 
+* [Organizing Code on Whiteboard](https://www.freecodecamp.org/news/how-to-organize-your-thoughts-on-the-whiteboard-and-crush-your-technical-interview-b668de4e6941/)
+
+#### Arrays
+
+###### Arrays resources
+
+* [](https://www.geeksforgeeks.org/python-arrays/)
+* [](https://www.geeksforgeeks.org/python-lists/)
+
+###### Arrays practice problems
+
+* [](https://leetcode.com/problems/two-sum/description/)
+* [](https://leetcode.com/problems/shuffle-the-array/description/)
+* [](https://leetcode.com/problems/maximum-subarray/description/)
+
+
+#### Strings
+
+###### Strings resources
+
+* [](https://www.youtube.com/watch?v=k9TUPpGqYTo)
+* [](https://www.geeksforgeeks.org/string-data-structure/)
+
+
+###### Strings practice problems
+
+* [](https://leetcode.com/problems/valid-anagram/description/)
+* [](https://leetcode.com/problems/reverse-string/)
+* [](https://leetcode.com/problems/longest-palindrome/description/)
+
+* [](https://leetcode.com/problems/valid-palindrome/description/)
+* [](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/)
+* [](https://leetcode.com/problems/count-and-say/description/)
+* [](https://leetcode.com/problems/reverse-words-in-a-string/description/)
+
+#### Sliding Windows Technique
+
+###### Sliding Windows resources
+
+* [Sliding Window Technique Video](https://www.youtube.com/watch?v=MK-NZ4hN7rs)
+
+
+###### Sliding Windows problems
+
+* [](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
+* [](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/description/)
+* [](https://leetcode.com/problems/minimum-size-subarray-sum/description/)
+* [](https://leetcode.com/problems/minimum-window-substring/description/)
+
+
+#### O(nlogn) Sorting Technique
+
+###### O(nlogn) Sorting  resources
+
+* [](https://www.youtube.com/watch?v=TzeBrDU-JaY)
+* [](https://www.youtube.com/watch?v=2Rr2tW9zvRg)
+* [](https://www.programiz.com/dsa/divide-and-conquer)
+* [](https://www.programiz.com/dsa/merge-sort)
+* [](https://www.programiz.com/dsa/quick-sort)
+
+
+###### O(nlogn) Sorting  problems
+* [](https://leetcode.com/problems/sort-an-array/description/)
+
 #### Hashmaps
 
 ###### Hashmap resources
@@ -89,6 +153,54 @@ Anyone can edit. 
 
 
 
+
+#### Stacks and Queues
+
+
+##### Stacks and Queues Resources
+* [Stacks Article](https://www.geeksforgeeks.org/stack-data-structure/)
+* [Queue Data Structure](https://www.geeksforgeeks.org/queue-data-structure/)
+* [Intro to Stack Video](https://www.youtube.com/watch?v=A3ZUpyrnCbM)
+* [Monotonic Stack Video](https://www.youtube.com/watch?v=Dq_ObZwTY_Q)
+
+ ##### Stacks and Queues Practice Problems
+* [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+* [Implement Stack Using Queue](https://leetcode.com/problems/implement-stack-using-queues/description/)
+* [Implmenets Queue Using Stack](https://leetcode.com/problems/implement-queue-using-stacks/description/)
+* [LRU Cache](https://leetcode.com/problems/lru-cache/description/)
+
+
+* [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/description/)
+* [Min Stack](https://leetcode.com/problems/min-stack/description/)
+* [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/)
+* [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/description/)
+
+
+#### Recursion
+
+##### Recursion Resources
+
+* [Intro to Recursion Video](https://www.youtube.com/watch?v=B0NtAFf4bvU)
+* [Intro to Recursion article](https://www.geeksforgeeks.org/introduction-to-recursion-2/)
+* [Backtracking Algos](https://www.geeksforgeeks.org/backtracking-algorithms/)
+* []()
+* []()
+
+#### Recursion Practice Problems
+
+* [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/description/)
+* [Subsets](https://leetcode.com/problems/subsets/description/)
+* [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/)
+* [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)
+
+* [Powx-n](https://leetcode.com/problems/powx-n/description/)
+* [Permutations](https://leetcode.com/problems/permutations/description/)
+* [Combination Sum](https://leetcode.com/problems/combination-sum/description/)
+* [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/)
+* [Word Search](https://leetcode.com/problems/word-search/description/)
+* [N Queens](https://leetcode.com/problems/n-queens/description/)
+
+
 #### Graphs
 
 ##### Graphs Resources
@@ -100,11 +212,17 @@ Anyone can edit. 
 * [Strongly Connected Components](https://www.geeksforgeeks.org/strongly-connected-components/)
 
 ##### Graphs Practice Problems
-* []()
-* []()
-* []()
-* []()
-* []()
+* [Find if path exists in graph](https://leetcode.com/problems/find-if-path-exists-in-graph/description/)
+* [Number of Islands](https://leetcode.com/problems/number-of-islands/description/)
+* [Course Schedule](https://leetcode.com/problems/course-schedule/description/)
+
+* [Find the Two Jungle](https://leetcode.com/problems/find-the-town-judge/)
+* [All Paths from Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/description/)
+* [Number of Provinces](https://leetcode.com/problems/number-of-provinces/description/)
+* [Clone Graph](https://leetcode.com/problems/clone-graph/description/)
+* [Cheapest Flights with k stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/)
+* [Word Ladder](https://leetcode.com/problems/word-ladder/description/)
+
 
 #### Trees
 
@@ -113,21 +231,53 @@ Anyone can edit. 
 * [Trees](https://www.youtube.com/watch?v=oSWTXtMglKE)
 * [Binary Tree Traversal DFS and BFS (Video)](https://www.youtube.com/watch?v=9RHO6jU--GU)
 * [Binary Tree Traversal DFS and BFS (Article)](https://www.geeksforgeeks.org/bfs-vs-dfs-binary-tree/)
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
+
 
 ##### Trees Practice Problems
 * [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)
 * [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/)
-* [Binaery Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/)
+* [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/)
+
+
+
+* [Binrary Search Tree Preorder Trav](https://leetcode.com/problems/binary-tree-preorder-traversal/description/)
+* [Binary Tree Inorder Trav](https://leetcode.com/problems/binary-tree-inorder-traversal/description/)
+* [Binary Tree Postorder Trav](https://leetcode.com/problems/binary-tree-postorder-traversal/description/)
+* [Binary Tree Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/)
+* [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/)
+* [Validate Binary Tree](https://leetcode.com/problems/validate-binary-search-tree/description/)
+
+* []()
+
 * []()
 * []()
 
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
 
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
 * []()
 * []()
 * []()
