@@ -33,3 +33,8 @@ Anyone can edit. 
 [Bianca Gandolfo](https://frontendmasters.com/teachers/bianca-gandolfo/)
 
 [Structy](https://www.structy.net/)
+
+#### Linked Lists
+
+[Introduction to Linked Lists (Data Structures & Algorithms #5)](https://www.youtube.com/watch?v=WwfhLC16bis)
+
