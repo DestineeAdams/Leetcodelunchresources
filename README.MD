@@ -10,6 +10,12 @@ Anyone can edit. 
 
 ---
 
+#### Time Complexity Resources
+* [An Introduction to the Time Complexity of Algorithms](https://www.freecodecamp.org/news/time-complexity-of-algorithms/)
+* [What is Time Complexity Analysis? - Basics of Algorithms](https://www.youtube.com/watch?v=fZc3ijGM0aM)
+* []()
+* []()
+
 #### Big O Notation Series by [Kantan Coding](https://www.youtube.com/@kantancoding)
 
 * [Big O Notation Series #8: Space Complexity and Big O Gotchas](https://www.youtube.com/watch?v=rHM3zWgnPVA)  
@@ -50,7 +56,7 @@ Anyone can edit. 
 * [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/)
 * [Top K frequent elements](https://leetcode.com/problems/top-k-frequent-elements/description/)
 * [First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/)
-[]()
+* []()
 
 #### Linked Lists
 
