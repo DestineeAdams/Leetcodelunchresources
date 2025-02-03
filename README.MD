@@ -13,8 +13,11 @@ Anyone can edit. 
 #### Time Complexity Resources
 * [An Introduction to the Time Complexity of Algorithms](https://www.freecodecamp.org/news/time-complexity-of-algorithms/)
 * [What is Time Complexity Analysis? - Basics of Algorithms](https://www.youtube.com/watch?v=fZc3ijGM0aM)
-* []()
-* []()
+
+#### Practice for time complexity
+* [Practice Questions on Time Complexity Analysis](https://www.geeksforgeeks.org/practice-questions-time-complexity-analysis/)
+* [Longest Substring Without Repeating](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
+* [Minimum Swaps](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/description/)
 
 #### Big O Notation Series by [Kantan Coding](https://www.youtube.com/@kantancoding)
 
@@ -22,7 +25,11 @@ Anyone can edit. 
 
 * [Big O Notation Series #9: Understanding Merge Sort](https://www.youtube.com/watch?v=HrCPqJHQSxY) 
 
- * [Big O Notation Series #6: Big O of N Factorial](https://www.youtube.com/watch?v=vbh8t-ok_4E)  
+* [Big O Notation Series #6: Big O of N Factorial](https://www.youtube.com/watch?v=vbh8t-ok_4E)  
+
+*  [Recursive Fibonacci](https://www.youtube.com/watch?v=AQp1OG7aSwg)
+
+
 
 #### Free Leet code alternatives 
 
