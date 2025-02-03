@@ -26,30 +26,30 @@ Anyone can edit. 
 
 * [kattis kattis](https://open.kattis.com) you will also need this guide [Input / Output A guided introduction to the Kattis repository of problems](https://mwermelinger.github.io/kattis-guide/input.html)
 
-[edabit coding challenges](https://edabit.com/challenges)
+* [edabit coding challenges](https://edabit.com/challenges)
 
 #### other
 
-[Bianca Gandolfo](https://frontendmasters.com/teachers/bianca-gandolfo/)
+* [Bianca Gandolfo](https://frontendmasters.com/teachers/bianca-gandolfo/)
 
-[Structy](https://www.structy.net/)
+* [Structy](https://www.structy.net/)
 
 #### Hashmaps
 
 ###### Hashmap resources
-[Hash Tables and Hash Functions](https://www.youtube.com/watch?v=KyUTuwz_b7Q)
-[Hashmaps in Python](https://www.geeksforgeeks.org/python-dictionary/)
+* [Hash Tables and Hash Functions](https://www.youtube.com/watch?v=KyUTuwz_b7Q)
+* [Hashmaps in Python](https://www.geeksforgeeks.org/python-dictionary/)
 
 ###### Hashmap practice
 
-[Design HashMap](https://leetcode.com/problems/design-hashmap/description/)
-[Two Sum](https://leetcode.com/problems/two-sum/description/)
-[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/)
+* [Design HashMap](https://leetcode.com/problems/design-hashmap/description/)
+* [Two Sum](https://leetcode.com/problems/two-sum/description/)
+* [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/)
 
-[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/)
-[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/)
-[Top K frequent elements](https://leetcode.com/problems/top-k-frequent-elements/description/)
-[First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/)
+* [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/)
+* [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/)
+* [Top K frequent elements](https://leetcode.com/problems/top-k-frequent-elements/description/)
+* [First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/)
 []()
 
 #### Linked Lists
