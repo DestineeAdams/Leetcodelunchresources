@@ -29,6 +29,8 @@ Anyone can edit. 
 
 *  [Recursive Fibonacci](https://www.youtube.com/watch?v=AQp1OG7aSwg)
 
+![big o notation graphic](time_complexity.jpg)
+
 
 
 #### Free Leet code alternatives 
