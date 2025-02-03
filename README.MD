@@ -1,9 +1,9 @@
 # Leetcode lunch resources
 
 Anyone can edit. 
+If you want to be a contributors let me know.
 
 🚨No profanity or lewd material🚨
-
 🚨follow the format🚨
 
   
@@ -50,6 +50,11 @@ Anyone can edit. 
 * [Structy](https://www.structy.net/)
 
 * [Organizing Code on Whiteboard](https://www.freecodecamp.org/news/how-to-organize-your-thoughts-on-the-whiteboard-and-crush-your-technical-interview-b668de4e6941/)
+
+#### Books
+
+[Grokking Algorithms 2nd Edition, 2024 - Free PDF](https://annas-archive.org/md5/6014af49a9c4c513b76f29b74a869e3f)
+
 
 ## Arrays
 
@@ -256,3 +261,4 @@ Anyone can edit. 
 
  []()
  []()
+
