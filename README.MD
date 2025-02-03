@@ -93,4 +93,27 @@ Anyone can edit. 
 * []()
 
 
+#### Graphs
+
+##### Graphs Resources
+
+* [Intro to Graphs](https://www.youtube.com/watch?v=gXgEDyodOJU)
+* [DFS and BFS Algorithm](https://www.youtube.com/watch?v=pcKY4hjDrxk)
+* [Dijkstra's Shortest Path Algorithm](https://www.freecodecamp.org/news/dijkstras-shortest-path-algorithm-visual-introduction/)
+* [Topological Sorting](https://cp-algorithms.com/graph/topological-sort.html)
+* [Strongly Connected Components](https://www.geeksforgeeks.org/strongly-connected-components/)
+
+
+#### Trees
+
+##### Tree Resources
+* [Intro to Trees](https://www.youtube.com/watch?v=qH6yxkw0u78)
+* [Trees](https://www.youtube.com/watch?v=oSWTXtMglKE)
+* [Binary Tree Traversal DFS and BFS (Video)](https://www.youtube.com/watch?v=9RHO6jU--GU)
+* [Binary Tree Traversal DFS and BFS (Article)](https://www.geeksforgeeks.org/bfs-vs-dfs-binary-tree/)
+* []()
+
+
+
+
 
