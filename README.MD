@@ -10,7 +10,7 @@ Anyone can edit. 
 
 ---
 
-#### Time Complexity Resources
+### Time Complexity Resources
 * [An Introduction to the Time Complexity of Algorithms](https://www.freecodecamp.org/news/time-complexity-of-algorithms/)
 * [What is Time Complexity Analysis? - Basics of Algorithms](https://www.youtube.com/watch?v=fZc3ijGM0aM)
 
