@@ -86,11 +86,7 @@ Anyone can edit. 
 * [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)
 * [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/)
 * [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/)
-* []()
-* []()
-* []()
-* []()
-* []()
+
 
 
 #### Graphs
@@ -103,6 +99,12 @@ Anyone can edit. 
 * [Topological Sorting](https://cp-algorithms.com/graph/topological-sort.html)
 * [Strongly Connected Components](https://www.geeksforgeeks.org/strongly-connected-components/)
 
+##### Graphs Practice Problems
+* []()
+* []()
+* []()
+* []()
+* []()
 
 #### Trees
 
@@ -112,7 +114,25 @@ Anyone can edit. 
 * [Binary Tree Traversal DFS and BFS (Video)](https://www.youtube.com/watch?v=9RHO6jU--GU)
 * [Binary Tree Traversal DFS and BFS (Article)](https://www.geeksforgeeks.org/bfs-vs-dfs-binary-tree/)
 * []()
+* []()
+* []()
+* []()
+* []()
+* []()
 
+##### Trees Practice Problems
+* [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)
+* [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/)
+* [Binaery Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/)
+* []()
+* []()
+
+
+* []()
+* []()
+* []()
+* []()
+* []()
 
 
 
