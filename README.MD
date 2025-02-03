@@ -53,34 +53,34 @@ Anyone can edit. 
 
 ###### Arrays resources
 
-* [](https://www.geeksforgeeks.org/python-arrays/)
-* [](https://www.geeksforgeeks.org/python-lists/)
+* [Python Arrays](https://www.geeksforgeeks.org/python-arrays/)
+* [Python Lists](https://www.geeksforgeeks.org/python-lists/)
 
 ###### Arrays practice problems
 
-* [](https://leetcode.com/problems/two-sum/description/)
-* [](https://leetcode.com/problems/shuffle-the-array/description/)
-* [](https://leetcode.com/problems/maximum-subarray/description/)
+* [Two Sum](https://leetcode.com/problems/two-sum/description/)
+* [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/description/)
+* [Maxmum Subarray](https://leetcode.com/problems/maximum-subarray/description/)
 
 
 #### Strings
 
 ###### Strings resources
 
-* [](https://www.youtube.com/watch?v=k9TUPpGqYTo)
-* [](https://www.geeksforgeeks.org/string-data-structure/)
+* [Strings in Python](https://www.youtube.com/watch?v=k9TUPpGqYTo)
+* [Strings in Different Languages](https://www.geeksforgeeks.org/string-data-structure/)
 
 
 ###### Strings practice problems
 
-* [](https://leetcode.com/problems/valid-anagram/description/)
-* [](https://leetcode.com/problems/reverse-string/)
-* [](https://leetcode.com/problems/longest-palindrome/description/)
+* [Valid Anagrams](https://leetcode.com/problems/valid-anagram/description/)
+* [Reverse String](https://leetcode.com/problems/reverse-string/)
+* [Longest Possible Palindrome](https://leetcode.com/problems/longest-palindrome/description/)
 
-* [](https://leetcode.com/problems/valid-palindrome/description/)
-* [](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/)
-* [](https://leetcode.com/problems/count-and-say/description/)
-* [](https://leetcode.com/problems/reverse-words-in-a-string/description/)
+* [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)
+* [Find the Index of the First Occurence](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/)
+* [Count and Say](https://leetcode.com/problems/count-and-say/description/)
+* [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/)
 
 #### Sliding Windows Technique
 
@@ -91,25 +91,25 @@ Anyone can edit. 
 
 ###### Sliding Windows problems
 
-* [](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
-* [](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/description/)
-* [](https://leetcode.com/problems/minimum-size-subarray-sum/description/)
-* [](https://leetcode.com/problems/minimum-window-substring/description/)
+* [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
+* [Minimum Swaps to Group All 1s Together II](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/description/)
+* [Miniumum Size SUbarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/)
+* [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/)
 
 
 #### O(nlogn) Sorting Technique
 
 ###### O(nlogn) Sorting  resources
 
-* [](https://www.youtube.com/watch?v=TzeBrDU-JaY)
-* [](https://www.youtube.com/watch?v=2Rr2tW9zvRg)
-* [](https://www.programiz.com/dsa/divide-and-conquer)
-* [](https://www.programiz.com/dsa/merge-sort)
-* [](https://www.programiz.com/dsa/quick-sort)
+* [Merge Sort](https://www.youtube.com/watch?v=TzeBrDU-JaY)
+* [Divide and Conquer](https://www.youtube.com/watch?v=2Rr2tW9zvRg)
+* [Divide and COnquer](https://www.programiz.com/dsa/divide-and-conquer)
+* [Merge Sort](https://www.programiz.com/dsa/merge-sort)
+* [Quick Sort](https://www.programiz.com/dsa/quick-sort)
 
 
 ###### O(nlogn) Sorting  problems
-* [](https://leetcode.com/problems/sort-an-array/description/)
+* [Sort an Array](https://leetcode.com/problems/sort-an-array/description/)
 
 #### Hashmaps
 
@@ -127,7 +127,7 @@ Anyone can edit. 
 * [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/)
 * [Top K frequent elements](https://leetcode.com/problems/top-k-frequent-elements/description/)
 * [First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/)
-* []()
+
 
 #### Linked Lists
 
@@ -259,6 +259,7 @@ Anyone can edit. 
 * []()
 * []()
 
+* []()
 * []()
 * []()
 * []()
