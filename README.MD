@@ -12,7 +12,7 @@ Anyone can edit. 
 
 #### Big O Notation Series by [Kantan Coding](https://www.youtube.com/@kantancoding)
 
-[-][Big O Notation Series #8: Space Complexity and Big O Gotchas](https://www.youtube.com/watch?v=rHM3zWgnPVA)  
+[*] [Big O Notation Series #8: Space Complexity and Big O Gotchas](https://www.youtube.com/watch?v=rHM3zWgnPVA)  
 
 [Big O Notation Series #9: Understanding Merge Sort](https://www.youtube.com/watch?v=HrCPqJHQSxY) 
 
