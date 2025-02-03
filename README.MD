@@ -49,7 +49,7 @@ Anyone can edit. 
 
 * [Organizing Code on Whiteboard](https://www.freecodecamp.org/news/how-to-organize-your-thoughts-on-the-whiteboard-and-crush-your-technical-interview-b668de4e6941/)
 
-#### Arrays
+## Arrays
 
 ###### Arrays resources
 
@@ -63,7 +63,7 @@ Anyone can edit. 
 * [Maxmum Subarray](https://leetcode.com/problems/maximum-subarray/description/)
 
 
-#### Strings
+## Strings
 
 ###### Strings resources
 
@@ -82,7 +82,7 @@ Anyone can edit. 
 * [Count and Say](https://leetcode.com/problems/count-and-say/description/)
 * [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/)
 
-#### Sliding Windows Technique
+## Sliding Windows Technique
 
 ###### Sliding Windows resources
 
@@ -97,7 +97,7 @@ Anyone can edit. 
 * [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/)
 
 
-#### O(nlogn) Sorting Technique
+## O(nlogn) Sorting Technique
 
 ###### O(nlogn) Sorting  resources
 
@@ -111,7 +111,7 @@ Anyone can edit. 
 ###### O(nlogn) Sorting  problems
 * [Sort an Array](https://leetcode.com/problems/sort-an-array/description/)
 
-#### Hashmaps
+## Hashmaps
 
 ###### Hashmap resources
 * [Hash Tables and Hash Functions](https://www.youtube.com/watch?v=KyUTuwz_b7Q)
@@ -129,7 +129,7 @@ Anyone can edit. 
 * [First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/)
 
 
-#### Linked Lists
+## Linked Lists
 
 ##### Linked Lists Info
 
@@ -154,7 +154,7 @@ Anyone can edit. 
 
 
 
-#### Stacks and Queues
+## Stacks and Queues
 
 
 ##### Stacks and Queues Resources
@@ -176,7 +176,7 @@ Anyone can edit. 
 * [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/description/)
 
 
-#### Recursion
+## Recursion
 
 ##### Recursion Resources
 
@@ -201,7 +201,7 @@ Anyone can edit. 
 * [N Queens](https://leetcode.com/problems/n-queens/description/)
 
 
-#### Graphs
+## Graphs
 
 ##### Graphs Resources
 
@@ -224,7 +224,7 @@ Anyone can edit. 
 * [Word Ladder](https://leetcode.com/problems/word-ladder/description/)
 
 
-#### Trees
+## Trees
 
 ##### Tree Resources
 * [Intro to Trees](https://www.youtube.com/watch?v=qH6yxkw0u78)
